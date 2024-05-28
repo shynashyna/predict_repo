@@ -315,7 +315,7 @@ footer{
     text-align: left;
 }
 
- .first-info{
+ .first-info {
     /* width: 200px; */
     height: auto;
     margin-top: 40px;
@@ -332,4 +332,23 @@ footer{
 .footer_content p{
     margin-top: 10px;
     margin-bottom: 10px;
+}
+
+.second-info {
+    height: auto;
+    margin-top: 40px;
+    padding-top: 20px;
+}
+
+.third-info{
+     height: auto;
+     margin-top: 40px;
+     padding-top: 20px;
+    
+}
+
+.fourth-info {
+    height: auto;
+    margin-top: 40px;
+    padding-top: 20px;
 }
