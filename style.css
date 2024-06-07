@@ -28,6 +28,11 @@ header{
     font-family: "Lato", sans-serif;
 }
 
+.logo img{
+    height: 24px;
+    border-radius: 8px;
+}
+
 .navbar ul{
     display: flex;
     margin-right: 200px;
