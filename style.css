@@ -9,7 +9,7 @@
 }
 
 header{
-    background-color: green;
+    background-color: darkgray;
     padding-left: 50px;
     padding-right: 20px;
     padding-top: 20px;
@@ -288,7 +288,7 @@ tbody tr:hover{
 
 
 footer{
-    background-color: green;
+    background-color: darkgray;
    
 }
 
@@ -344,7 +344,7 @@ footer{
 }
 
 .about-text {
-background-color: green;
+background-color: darkgray;
 
   
 }
